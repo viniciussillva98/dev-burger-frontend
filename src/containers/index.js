@@ -1,0 +1,12 @@
+
+export * from "./Home"
+export * from "./Login"
+export * from "./Menu"
+export * from "./Register"
+export * from "./Cart"
+export * from "./Checkout"
+export * from "./CompletPayment"
+export * from "./Admin/EditProduct"
+export * from "./Admin/NewProduct"
+export * from "./Admin/Orders"
+export * from "./Admin/NewProduct"
