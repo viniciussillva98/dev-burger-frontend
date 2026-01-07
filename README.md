@@ -1,16 +1,26 @@
-# React + Vite
+### Esse é o DevBurger, um projeto que desenvolvi junto ao DevClub.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ferramentas ultilizadas :
+### Backend: 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" > <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-Currently, two official plugins are available:
+### Frontend:
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Tools:
+<img src="https://camo.githubusercontent.com/f130fef6d0e5754c78bdf3715c6d0f8741092a36087b68cf1c539fc10b45a3c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/> 
 
-## React Compiler
+#### Database:
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+#### IDEs:
+<img src="https://camo.githubusercontent.com/b8ae82ffde62bb5ad395fce80cab7d09428adac59817744147b54a742ce3c6e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20home.png?raw=true" />
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20cardapio.png?raw=true" />
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20menu%20sobremesas.png?raw=true" />
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20carrinho.png?raw=true" />
