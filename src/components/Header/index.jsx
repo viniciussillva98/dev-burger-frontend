@@ -20,6 +20,7 @@ export function Header() {
 
     const { userInfo } = useUser()
 
+
     const [openSidebar, setOpenSidebar] = useState(false); // controla se a janela está aberta
 
     useEffect(() => {
@@ -37,7 +38,6 @@ export function Header() {
             <Content>
 
                 <Navigation>
-
                     <Image $Active={pathname === "/carrinho"}>
                         <img src={logo} />
                     </Image>
@@ -46,16 +46,9 @@ export function Header() {
                         <HeaderLink to={"/home"} $Active={pathname === "/home"}>Home</HeaderLink>
                         <hr />
                         <HeaderLink to={"/cardapio"} $Active={pathname === "/cardapio"}>Cardápio</HeaderLink>
-                        {isAdmin && (
-                            <>
-                                <hr />
-                                <HeaderLink to={"/admin/pedidos"}>Admin</HeaderLink>
-                            </>
-                        )}
-
+                        {isAdmin({}) && <hr></hr>}
+                        <HeaderLink to={"/admin/pedidos"}>{isAdmin("Tela de Admin")}</HeaderLink>
                     </div>
-
-
                 </Navigation>
 
 
