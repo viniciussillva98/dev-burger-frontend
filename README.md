@@ -19,8 +19,22 @@ Ferramentas ultilizadas :
 
 <img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20home.png?raw=true" />
 
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20menu%20de%20perfil.png?raw=true"/>
+
 <img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20cardapio.png?raw=true" />
 
 <img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20menu%20sobremesas.png?raw=true" />
 
 <img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20carrinho.png?raw=true" />
+
+## Telas de usuarios administradores:
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20admin%20pedidos.png?raw=true"/>
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20admin%20pedidor%20open%20table.png?raw=true"/>
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20admin%20produtos.png?raw=true"/>
+
+<img src="https://github.com/viniciussillva98/dev-burger-frontend/blob/master/src/assets/Captura%20de%20tela%20admin%20novo%20produto.png?raw=true"/>
+
+
